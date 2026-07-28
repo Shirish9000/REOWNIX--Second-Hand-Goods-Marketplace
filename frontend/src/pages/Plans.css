@@ -1,0 +1,631 @@
+/* =====================================================
+   PLANS PAGE
+===================================================== */
+
+.plans-page{
+    width:100%;
+    background:#f8fafc;
+    overflow-x:hidden;
+}
+
+
+/* =====================================================
+   HERO
+===================================================== */
+
+.plans-hero{
+
+    min-height:45vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:80px 20px;
+
+    color:#fff;
+
+    background:linear-gradient(
+        135deg,
+        #2563eb 0%,
+        #1d4ed8 50%,
+        #1e40af 100%
+    );
+
+}
+
+
+
+.hero-overlay{
+
+    max-width:850px;
+
+}
+
+
+
+.hero-overlay h1{
+
+    font-size:58px;
+
+    font-weight:800;
+
+    margin-bottom:20px;
+
+}
+
+
+
+.hero-overlay p{
+
+    font-size:22px;
+
+    color:#eef4ff;
+
+    line-height:1.8;
+
+}
+
+
+
+/* =====================================================
+   PRICING
+===================================================== */
+
+.pricing-section{
+
+    padding:90px 0;
+
+}
+
+
+
+.plan-card{
+
+    background:#fff;
+
+    border:none;
+
+    border-radius:25px;
+
+    padding:45px 35px;
+
+    text-align:center;
+
+    height:100%;
+
+    display:flex;
+
+    flex-direction:column;
+
+    position:relative;
+
+    box-shadow:0 15px 40px rgba(15,23,42,.08);
+
+    transition:.35s;
+
+}
+
+
+
+.plan-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 50px rgba(0,0,0,.12);
+
+}
+
+
+
+/* FEATURED CARD */
+
+.plan-card.popular{
+
+    border:none !important;
+
+    outline:none !important;
+
+    background:#fff;
+
+    transform:translateY(-10px);
+
+    box-shadow:0 20px 60px rgba(37,99,235,.18);
+
+}
+
+
+
+/* BADGE */
+
+.popular-badge{
+
+    position:absolute;
+
+    top:-18px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    background:#FFC107;
+
+    color:#111827;
+
+    padding:10px 28px;
+
+    border-radius:50px;
+
+    font-size:13px;
+
+    font-weight:700;
+
+    letter-spacing:.5px;
+
+    box-shadow:0 10px 25px rgba(255,193,7,.35);
+
+}
+
+
+
+.plan-card h2{
+
+    color:#2563eb;
+
+    font-size:30px;
+
+    font-weight:700;
+
+    margin-top:15px;
+
+    margin-bottom:18px;
+
+}
+
+
+
+.plan-card h1{
+
+    font-size:56px;
+
+    font-weight:800;
+
+    color:#111827;
+
+    margin-bottom:12px;
+
+}
+
+
+
+.plan-card>p{
+
+    color:#64748b;
+
+    margin-bottom:28px;
+
+}
+
+
+
+.plan-card ul{
+
+    list-style:none;
+
+    padding:0;
+
+    margin:0;
+
+    flex:1;
+
+}
+
+
+
+.plan-card ul li{
+
+    padding:12px 0;
+
+    color:#475569;
+
+    font-size:17px;
+
+}
+
+
+
+.plan-card ul li i{
+
+    color:#22c55e;
+
+    margin-right:10px;
+
+}
+
+
+
+.plan-card button{
+
+    width:100%;
+
+    padding:14px;
+
+    border-radius:40px;
+
+    font-weight:700;
+
+    margin-top:30px;
+
+}
+
+/* =====================================================
+   COMPARISON SECTION
+===================================================== */
+
+.comparison-section{
+
+    padding:100px 0;
+
+    background:#ffffff;
+
+}
+
+
+
+.comparison-section h2{
+
+    text-align:center;
+
+    font-size:42px;
+
+    font-weight:800;
+
+    color:#0f172a;
+
+    margin-bottom:50px;
+
+}
+
+
+
+.comparison-table{
+
+    background:#ffffff;
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    box-shadow:0 15px 40px rgba(15,23,42,.08);
+
+}
+
+
+
+.comparison-table thead{
+
+    background:#2563eb;
+
+    color:#ffffff;
+
+}
+
+
+
+.comparison-table th{
+
+    border:none;
+
+    padding:18px;
+
+    text-align:center;
+
+    font-size:18px;
+
+    font-weight:700;
+
+}
+
+
+
+.comparison-table td{
+
+    padding:18px;
+
+    text-align:center;
+
+    border:none;
+
+    border-bottom:1px solid #e5e7eb;
+
+    color:#475569;
+
+}
+
+
+
+.comparison-table tbody tr:hover{
+
+    background:#f8fafc;
+
+}
+
+
+
+/* =====================================================
+   FAQ
+===================================================== */
+
+.faq-section{
+
+    padding:100px 0;
+
+    background:#f8fafc;
+
+}
+
+
+
+.faq-section h2{
+
+    text-align:center;
+
+    font-size:42px;
+
+    font-weight:800;
+
+    margin-bottom:45px;
+
+    color:#0f172a;
+
+}
+
+
+
+.accordion-item{
+
+    border:none;
+
+    border-radius:16px !important;
+
+    overflow:hidden;
+
+    margin-bottom:18px;
+
+    box-shadow:0 10px 30px rgba(15,23,42,.08);
+
+}
+
+
+
+.accordion-button{
+
+    background:#ffffff;
+
+    padding:20px;
+
+    font-weight:700;
+
+}
+
+
+
+.accordion-button:not(.collapsed){
+
+    background:#2563eb;
+
+    color:#ffffff;
+
+}
+
+
+
+.accordion-button:focus{
+
+    box-shadow:none;
+
+}
+
+
+
+.accordion-body{
+
+    padding:20px;
+
+    color:#64748b;
+
+    line-height:1.8;
+
+}
+
+
+
+/* =====================================================
+   CTA
+===================================================== */
+
+.cta-section{
+
+    padding:100px 20px;
+
+    background:linear-gradient(
+        135deg,
+        #2563eb,
+        #1e40af
+    );
+
+    text-align:center;
+
+    color:#ffffff;
+
+}
+
+
+
+.cta-section h2{
+
+    font-size:46px;
+
+    font-weight:800;
+
+    margin-bottom:20px;
+
+}
+
+
+
+.cta-section p{
+
+    font-size:20px;
+
+    color:#dbeafe;
+
+    max-width:700px;
+
+    margin:0 auto 35px;
+
+}
+
+
+
+.cta-section .btn{
+
+    background:#FFC107;
+
+    color:#111827;
+
+    border:none;
+
+    border-radius:40px;
+
+    padding:15px 40px;
+
+    font-weight:700;
+
+    transition:.3s;
+
+}
+
+
+
+.cta-section .btn:hover{
+
+    background:#ffb300;
+
+    transform:translateY(-3px);
+
+}
+
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media(max-width:992px){
+
+    .hero-overlay h1{
+
+        font-size:44px;
+
+    }
+
+}
+
+
+
+@media(max-width:768px){
+
+    .plans-hero{
+
+        min-height:35vh;
+
+        padding:60px 20px;
+
+    }
+
+    .hero-overlay h1{
+
+        font-size:34px;
+
+    }
+
+    .hero-overlay p{
+
+        font-size:17px;
+
+    }
+
+    .plan-card{
+
+        margin-bottom:30px;
+
+        padding:35px 25px;
+
+    }
+
+    .plan-card.popular{
+
+        transform:none;
+
+    }
+
+    .comparison-section h2,
+
+    .faq-section h2,
+
+    .cta-section h2{
+
+        font-size:30px;
+
+    }
+
+}
+
+
+
+@media(max-width:576px){
+
+    .plan-card h1{
+
+        font-size:42px;
+
+    }
+
+    .plan-card h2{
+
+        font-size:28px;
+
+    }
+
+    .comparison-table th,
+
+    .comparison-table td{
+
+        font-size:14px;
+
+        padding:12px;
+
+    }
+
+    .cta-section{
+
+        padding:70px 20px;
+
+    }
+
+    .cta-section h2{
+
+        font-size:28px;
+
+    }
+
+    .cta-section p{
+
+        font-size:16px;
+
+    }
+
+}
