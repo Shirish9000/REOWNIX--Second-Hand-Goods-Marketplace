@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\repositories\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\repositories\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|c:\\users\\asus\\desktop\\project\\reownix_full project (2)\\reownix_full project\\backend\\backend\\premiumservice\\premiumservice\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CB966-5ED3-DD04-293E-EC012B13B537}|PremiumService\\PremiumService.csproj|solutionrelative:premiumservice\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Program.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Program.cs",
+              "RelativeToolTip": "PremiumService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T07:32:03.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "PremiumService\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:03:28.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\appsettings.json",
+              "RelativeDocumentMoniker": "PremiumService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\appsettings.json",
+              "RelativeToolTip": "PremiumService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-19T18:39:14.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PremiumService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:08:08.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PremiumService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PremiumService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-28T17:08:02.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Repositories\\SubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Repositories\\SubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Repositories\\SubscriptionRepository.cs",
+              "RelativeToolTip": "PremiumService\\Repositories\\SubscriptionRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T11:19:11.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PremiumService\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T05:47:06.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "PremiumService\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T05:39:19.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "PremiumService\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Project\\ReOwnIX_full project (2)\\ReOwnIX_full project\\backend\\backend\\PremiumService\\PremiumService\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "PremiumService\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T18:38:18.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
