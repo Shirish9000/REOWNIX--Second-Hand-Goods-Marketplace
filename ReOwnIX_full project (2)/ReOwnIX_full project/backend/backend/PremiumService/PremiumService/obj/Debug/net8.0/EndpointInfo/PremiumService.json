@@ -1,0 +1,912 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Premium Service API",
+    "description": "API for premium Subscription Management",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Invoice": {
+      "get": {
+        "tags": [
+          "Invoice"
+        ],
+        "summary": "Retrieves all invoices.",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Invoice"
+        ],
+        "summary": "Generates an invoice for a payment.",
+        "requestBody": {
+          "description": "Invoice request.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Invoice/{id}": {
+      "get": {
+        "tags": [
+          "Invoice"
+        ],
+        "summary": "Retrieves an invoice by its ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Invoice ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Invoice"
+        ],
+        "summary": "Updates an existing invoice.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Invoice ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Updated invoice details.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvoiceRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Invoice"
+        ],
+        "summary": "Deletes an invoice.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Invoice ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Payment": {
+      "get": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Retrieves all payment records.",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Processes a payment and creates a subscription.",
+        "requestBody": {
+          "description": "Payment request.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaymentRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaymentRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaymentRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created"
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Payment/{id}": {
+      "get": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Retrieves a payment by its ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Payment ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Payment"
+        ],
+        "summary": "Deletes a payment.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Payment ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Plan": {
+      "get": {
+        "tags": [
+          "Plan"
+        ],
+        "summary": "Returns all available subscription plans.",
+        "responses": {
+          "200": {
+            "description": "Plans retrieved successfully"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Plan"
+        ],
+        "summary": "Creates a new subscription plan.",
+        "requestBody": {
+          "description": "Plan information.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "201": {
+            "description": "Plan created successfully."
+          },
+          "400": {
+            "description": "Invalid request."
+          }
+        }
+      }
+    },
+    "/api/Plan/{id}": {
+      "get": {
+        "tags": [
+          "Plan"
+        ],
+        "summary": "Retrieves a subscription plan by its ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Plan ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Plan found."
+          },
+          "404": {
+            "description": "Plan not found."
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Plan"
+        ],
+        "summary": "Updates an existing subscription plan.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Plan ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Updated plan information.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlanRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Plan updated successfully."
+          },
+          "404": {
+            "description": "Plan not found."
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Plan"
+        ],
+        "summary": "Deletes a subscription plan.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Plan ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Plan deleted successfully."
+          },
+          "404": {
+            "description": "Plan not found."
+          }
+        }
+      }
+    },
+    "/api/Subscription/purchase": {
+      "post": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Purchases a subscription plan for a user.",
+        "requestBody": {
+          "description": "User ID and Plan ID.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PurchasePlanRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PurchasePlanRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PurchasePlanRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/view/{userId}": {
+      "post": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Records a product view for a user.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/remaining/{userId}": {
+      "get": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Returns the remaining product views for a user.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/canview/{userId}": {
+      "get": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Checks whether the user can view another product.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/isexpired/{userId}": {
+      "get": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Checks whether the user's subscription has expired.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/user/{userId}": {
+      "get": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Retrieves subscription details for a specific user.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/renew/{userId}": {
+      "post": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Renews a user's subscription.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Subscription/cancel/{userId}": {
+      "post": {
+        "tags": [
+          "Subscription"
+        ],
+        "summary": "Cancels a user's subscription.",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "description": "User ID.",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "InvoiceRequestDto": {
+        "required": [
+          "paymentId"
+        ],
+        "type": "object",
+        "properties": {
+          "paymentId": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "description": "Payment ID for which the invoice is generated.",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false,
+        "description": "Request DTO used to generate an invoice for a payment."
+      },
+      "PaymentRequestDto": {
+        "required": [
+          "amount",
+          "paymentMethod",
+          "planId",
+          "userId"
+        ],
+        "type": "object",
+        "properties": {
+          "userId": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "description": "User ID.",
+            "format": "int32"
+          },
+          "planId": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "description": "Selected plan ID.",
+            "format": "int32"
+          },
+          "amount": {
+            "maximum": 1000000,
+            "minimum": 0.01,
+            "type": "number",
+            "description": "Amount to be paid.",
+            "format": "currency"
+          },
+          "paymentMethod": {
+            "maxLength": 30,
+            "minLength": 3,
+            "type": "string",
+            "description": "Payment method.\r\nExample: UPI, Credit Card, Debit Card, Net Banking."
+          }
+        },
+        "additionalProperties": false,
+        "description": "Request DTO used to process a payment for a subscription plan."
+      },
+      "PlanRequestDto": {
+        "required": [
+          "durationDays",
+          "planName",
+          "price",
+          "productLimit"
+        ],
+        "type": "object",
+        "properties": {
+          "planName": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "description": "Name of the subscription plan."
+          },
+          "price": {
+            "maximum": 100000,
+            "minimum": 0.01,
+            "type": "number",
+            "description": "Price of the plan.",
+            "format": "currency"
+          },
+          "productLimit": {
+            "maximum": 1000,
+            "minimum": 1,
+            "type": "integer",
+            "description": "Maximum number of products the user can view.",
+            "format": "int32"
+          },
+          "durationDays": {
+            "maximum": 365,
+            "minimum": 1,
+            "type": "integer",
+            "description": "Duration of the subscription in days.",
+            "format": "int32"
+          },
+          "description": {
+            "maxLength": 200,
+            "minLength": 0,
+            "type": "string",
+            "description": "Optional plan description.",
+            "nullable": true
+          },
+          "isActive": {
+            "type": "boolean",
+            "description": "Indicates whether the plan is active."
+          }
+        },
+        "additionalProperties": false,
+        "description": "Request DTO used to create or update a subscription plan."
+      },
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      },
+      "PurchasePlanRequestDto": {
+        "required": [
+          "planId",
+          "userId"
+        ],
+        "type": "object",
+        "properties": {
+          "userId": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "description": "User ID.",
+            "format": "int32"
+          },
+          "planId": {
+            "maximum": 2147483647,
+            "minimum": 1,
+            "type": "integer",
+            "description": "Plan ID to purchase.",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false,
+        "description": "Request DTO used to purchase a subscription plan."
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Enter JWT Token: Bearer {your_token}",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}

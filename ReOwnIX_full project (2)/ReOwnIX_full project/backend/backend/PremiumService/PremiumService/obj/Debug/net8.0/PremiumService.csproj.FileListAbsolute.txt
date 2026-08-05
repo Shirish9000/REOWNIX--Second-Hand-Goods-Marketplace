@@ -1,0 +1,551 @@
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.exe
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.deps.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.runtimeconfig.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.pdb
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.xml
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\scopedcss\bundle\PremiumService.styles.css
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumS.8B884DE0.Up2Date
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\refint\PremiumService.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.xml
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.pdb
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\obj\Debug\net8.0\ref\PremiumService.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Project\reownix\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.staticwebassets.endpoints.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.exe
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.deps.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.runtimeconfig.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.pdb
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.xml
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.AssemblyReference.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfoInputs.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfo.cs
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.CoreCompileInputs.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\scopedcss\bundle\PremiumService.styles.css
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumS.8B884DE0.Up2Date
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\refint\PremiumService.dll
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.xml
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.pdb
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.genruntimeconfig.cache
+C:\Users\abhay\Downloads\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\ref\PremiumService.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.staticwebassets.endpoints.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.exe
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.deps.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.runtimeconfig.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.pdb
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.xml
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.AssemblyReference.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfoInputs.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfo.cs
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.CoreCompileInputs.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\scopedcss\bundle\PremiumService.styles.css
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumS.8B884DE0.Up2Date
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\refint\PremiumService.dll
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.xml
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.pdb
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.genruntimeconfig.cache
+C:\Users\abhay\source\repos\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\ref\PremiumService.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.exe
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.deps.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.runtimeconfig.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.pdb
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\PremiumService.xml
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\scopedcss\bundle\PremiumService.styles.css
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumS.8B884DE0.Up2Date
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\refint\PremiumService.dll
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.xml
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.pdb
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\PremiumService.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Project\ReOwnIX_full project (2)\ReOwnIX_full project\backend\backend\PremiumService\PremiumService\obj\Debug\net8.0\ref\PremiumService.dll

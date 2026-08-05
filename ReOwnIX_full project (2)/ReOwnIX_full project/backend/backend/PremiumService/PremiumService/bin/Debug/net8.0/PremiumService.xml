@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PremiumService</name>
+    </assembly>
+    <members>
+        <member name="T:PremiumService.Controllers.InvoiceController">
+            <summary>
+            Handles invoice-related operations
+            </summary>
+        </member>
+        <member name="M:PremiumService.Controllers.InvoiceController.GetAllInvoices">
+            <summary>
+            Retrieves all invoices.
+            </summary>
+            <returns>List of invoices.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.InvoiceController.GetInvoiceById(System.Int32)">
+            <summary>
+            Retrieves an invoice by its ID.
+            </summary>
+            <param name="id">Invoice ID.</param>
+            <returns>Invoice details.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.InvoiceController.AddInvoice(PremiumService.DTOs.InvoiceRequestDto)">
+            <summary>
+            Generates an invoice for a payment.
+            </summary>
+            <param name="dto">Invoice request.</param>
+            <returns>Created invoice.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.InvoiceController.UpdateInvoice(System.Int32,PremiumService.DTOs.InvoiceRequestDto)">
+            <summary>
+            Updates an existing invoice.
+            </summary>
+            <param name="id">Invoice ID.</param>
+            <param name="dto">Updated invoice details.</param>
+            <returns>Success message.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.InvoiceController.DeleteInvoice(System.Int32)">
+            <summary>
+            Deletes an invoice.
+            </summary>
+            <param name="id">Invoice ID.</param>
+            <returns>Success message.</returns>
+        </member>
+        <member name="T:PremiumService.Controllers.PaymentController">
+            <summary>
+            Handles payment-related operations.
+            </summary>
+        </member>
+        <member name="M:PremiumService.Controllers.PaymentController.GetAllPayments">
+            <summary>
+            Retrieves all payment records.
+            </summary>
+            <returns>List of all payments.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.PaymentController.GetPaymentById(System.Int32)">
+            <summary>
+            Retrieves a payment by its ID.
+            </summary>
+            <param name="id">Payment ID.</param>
+            <returns>Payment details.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.PaymentController.MakePayment(PremiumService.DTOs.PaymentRequestDto)">
+            <summary>
+            Processes a payment and creates a subscription.
+            </summary>
+            <param name="request">Payment request.</param>
+            <returns>Payment details.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.PaymentController.DeletePayment(System.Int32)">
+            <summary>
+            Deletes a payment.
+            </summary>
+            <param name="id">Payment ID.</param>
+            <returns>Success message.</returns>
+        </member>
+        <member name="T:PremiumService.Controllers.PlanController">
+            <summary>
+            Controller responsible for managing subscription plans.
+            </summary>
+        </member>
+        <member name="M:PremiumService.Controllers.PlanController.GetAllPlans">
+            <summary>
+            Returns all available subscription plans.
+            </summary>
+            <returns>Returns a list of subscription plans.</returns>
+            <response code ="200">Plans retrieved successfully</response>
+        </member>
+        <member name="M:PremiumService.Controllers.PlanController.GetPlanById(System.Int32)">
+            <summary>
+            Retrieves a subscription plan by its ID.
+            </summary>
+            <param name="id">Plan ID.</param>
+            <returns>Returns the requested plan.</returns>
+            <response code="200">Plan found.</response>
+            <response code="404">Plan not found.</response>
+        </member>
+        <member name="M:PremiumService.Controllers.PlanController.AddPlanAsync(PremiumService.DTOs.PlanRequestDto)">
+            <summary>
+            Creates a new subscription plan.
+            </summary>
+            <param name="dto">Plan information.</param>
+            <returns>Returns the newly created plan.</returns>
+            <response code="201">Plan created successfully.</response>
+            <response code="400">Invalid request.</response>
+        </member>
+        <member name="M:PremiumService.Controllers.PlanController.UpdatePlan(System.Int32,PremiumService.DTOs.PlanRequestDto)">
+            <summary>
+            Updates an existing subscription plan.
+            </summary>
+            <param name="id">Plan ID.</param>
+            <param name="dto">Updated plan information.</param>
+            <returns>Returns update status.</returns>
+            <response code="200">Plan updated successfully.</response>
+            <response code="404">Plan not found.</response>
+        </member>
+        <member name="M:PremiumService.Controllers.PlanController.DeletePlan(System.Int32)">
+            <summary>
+            Deletes a subscription plan.
+            </summary>
+            <param name="id">Plan ID.</param>
+            <returns>Returns delete status.</returns>
+            <response code="200">Plan deleted successfully.</response>
+            <response code="404">Plan not found.</response>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.PurchasePlan(PremiumService.DTOs.PurchasePlanRequestDto)">
+            <summary>
+            Purchases a subscription plan for a user.
+            </summary>
+            <param name="request">User ID and Plan ID.</param>
+            <returns>Purchase status.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.RecordProductView(System.Int32)">
+            <summary>
+            Records a product view for a user.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Updated product view status.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.GetRemainingProducts(System.Int32)">
+            <summary>
+            Returns the remaining product views for a user.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Remaining product count.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.CanViewProduct(System.Int32)">
+            <summary>
+            Checks whether the user can view another product.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>True if the user can view another product.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.IsSubscriptionExpired(System.Int32)">
+            <summary>
+            Checks whether the user's subscription has expired.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Subscription expiry status.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.GetSubscriptionByUserId(System.Int32)">
+            <summary>
+            Retrieves subscription details for a specific user.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Subscription details.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.RenewSubscription(System.Int32)">
+            <summary>
+            Renews a user's subscription.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Renewal status.</returns>
+        </member>
+        <member name="M:PremiumService.Controllers.SubscriptionController.CancelSubscription(System.Int32)">
+            <summary>
+            Cancels a user's subscription.
+            </summary>
+            <param name="userId">User ID.</param>
+            <returns>Cancellation status.</returns>
+        </member>
+        <member name="T:PremiumService.Data.ApplicationDbContext">
+            <summary>
+            Database context for PremiumService.
+            </summary>
+        </member>
+        <member name="M:PremiumService.Data.ApplicationDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{PremiumService.Data.ApplicationDbContext})">
+            <summary>
+            Initializes a new instance of ApplicationDbContext.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Data.ApplicationDbContext.Plans">
+            <summary>
+            Subscription plans.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Data.ApplicationDbContext.Subscriptions">
+            <summary>
+            User subscriptions.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Data.ApplicationDbContext.Payments">
+            <summary>
+            Payments.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Data.ApplicationDbContext.Invoices">
+            <summary>
+            Invoices.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Data.ApplicationDbContext.FreeTrials">
+            <summary>
+            Free trial records.
+            </summary>
+        </member>
+        <member name="M:PremiumService.Data.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Configures entities and seeds initial data.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.ApiResponse`1">
+            <summary>
+            Standard API response wrapper used across all endpoints.
+            </summary>
+            <typeparam name="T">Type of response data.</typeparam>
+        </member>
+        <member name="P:PremiumService.DTOs.ApiResponse`1.Success">
+            <summary>
+            Indicates whether the API request was successful.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.ApiResponse`1.Message">
+            <summary>
+            Response message describing the result.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.ApiResponse`1.Data">
+            <summary>
+            Response payload.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.CanViewResponseDto">
+            <summary>
+            Response indicating whether a user is allowed to view another product.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.CanViewResponseDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.CanViewResponseDto.CanView">
+            <summary>
+            Indicates whether the user can view another product.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.InvoiceRequestDto">
+            <summary>
+            Request DTO used to generate an invoice for a payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.InvoiceRequestDto.PaymentId">
+            <summary>
+            Payment ID for which the invoice is generated.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.InvoiceResponseDto">
+            <summary>
+            Response DTO containing invoice details.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.InvoiceResponseDto.InvoiceId">
+            <summary>
+            Invoice ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.InvoiceResponseDto.PaymentId">
+            <summary>
+            Associated Payment ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.InvoiceResponseDto.InvoiceNumber">
+            <summary>
+            Unique invoice number.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.InvoiceResponseDto.InvoiceDate">
+            <summary>
+            Date and time when the invoice was generated (UTC).
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PaymentRequestDto">
+            <summary>
+            Request DTO used to process a payment for a subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentRequestDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentRequestDto.PlanId">
+            <summary>
+            Selected plan ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentRequestDto.Amount">
+            <summary>
+            Amount to be paid.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentRequestDto.PaymentMethod">
+            <summary>
+            Payment method.
+            Example: UPI, Credit Card, Debit Card, Net Banking.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PaymentResponseDto">
+            <summary>
+            Response DTO containing payment details.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.PaymentId">
+            <summary>
+            Payment ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.SubscriptionId">
+            <summary>
+            Subscription ID associated with the payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.Amount">
+            <summary>
+            Amount paid.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.PaymentMethod">
+            <summary>
+            Payment method used.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.TransactionId">
+            <summary>
+            Payment gateway transaction ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.PaymentStatus">
+            <summary>
+            Payment status.
+            Example: Pending, Success, Failed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResponseDto.PaymentDate">
+            <summary>
+            Date and time when the payment was completed (UTC).
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PaymentResultDto">
+            <summary>
+            Represents the result of a payment transaction.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResultDto.PaymentId">
+            <summary>
+            Payment ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResultDto.TransactionId">
+            <summary>
+            Unique transaction ID generated by the payment gateway.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResultDto.PaymentStatus">
+            <summary>
+            Current payment status.
+            Example: Success, Failed, Pending.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PaymentResultDto.Message">
+            <summary>
+            Result message.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PlanRequestDto">
+            <summary>
+            Request DTO used to create or update a subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.PlanName">
+            <summary>
+            Name of the subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.Price">
+            <summary>
+            Price of the plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.ProductLimit">
+            <summary>
+            Maximum number of products the user can view.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.DurationDays">
+            <summary>
+            Duration of the subscription in days.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.Description">
+            <summary>
+            Optional plan description.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanRequestDto.IsActive">
+            <summary>
+            Indicates whether the plan is active.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PlanResponseDto">
+            <summary>
+            Response DTO containing plan details.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.PlanId">
+            <summary>
+            Plan ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.PlanName">
+            <summary>
+            Plan name.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.Price">
+            <summary>
+            Plan price.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.ProductLimit">
+            <summary>
+            Maximum number of products allowed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.DurationDays">
+            <summary>
+            Plan duration in days.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.Description">
+            <summary>
+            Plan description.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PlanResponseDto.IsActive">
+            <summary>
+            Indicates whether the plan is active.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.PurchasePlanRequestDto">
+            <summary>
+            Request DTO used to purchase a subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PurchasePlanRequestDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.PurchasePlanRequestDto.PlanId">
+            <summary>
+            Plan ID to purchase.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.RemainingResponseDto">
+            <summary>
+            Response DTO containing the remaining product views for a user.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.RemainingResponseDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.RemainingResponseDto.RemainingProducts">
+            <summary>
+            Remaining number of product views.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.SubscriptionDetailsResponseDto">
+            <summary>
+            Response DTO containing complete subscription details.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.SubscriptionId">
+            <summary>
+            Subscription ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.PlanName">
+            <summary>
+            Name of the subscribed plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.Price">
+            <summary>
+            Price of the subscribed plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.ProductsViewed">
+            <summary>
+            Number of products viewed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.RemainingProducts">
+            <summary>
+            Remaining product views.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.StartDate">
+            <summary>
+            Subscription start date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.EndDate">
+            <summary>
+            Subscription expiry date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.Status">
+            <summary>
+            Current subscription status.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionDetailsResponseDto.AutoRenew">
+            <summary>
+            Indicates whether auto-renew is enabled.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.SubscriptionRequestDto">
+            <summary>
+            Request DTO used to create a new subscription.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionRequestDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionRequestDto.PlanId">
+            <summary>
+            Plan ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionRequestDto.AutoRenew">
+            <summary>
+            Indicates whether auto-renew is enabled.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.SubscriptionResponseDto">
+            <summary>
+            Response DTO containing subscription information.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.SubscriptionId">
+            <summary>
+            Subscription ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.PlanId">
+            <summary>
+            Plan ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.StartDate">
+            <summary>
+            Subscription start date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.EndDate">
+            <summary>
+            Subscription expiry date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.ProductsViewed">
+            <summary>
+            Number of products viewed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.RemainingProducts">
+            <summary>
+            Remaining product views.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.Status">
+            <summary>
+            Current subscription status.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionResponseDto.AutoRenew">
+            <summary>
+            Indicates whether auto-renew is enabled.
+            </summary>
+        </member>
+        <member name="T:PremiumService.DTOs.SubscriptionStatusResponseDto">
+            <summary>
+            Response DTO indicating whether a user's subscription has expired.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionStatusResponseDto.UserId">
+            <summary>
+            User ID.
+            </summary>
+        </member>
+        <member name="P:PremiumService.DTOs.SubscriptionStatusResponseDto.IsExpired">
+            <summary>
+            Indicates whether the subscription has expired.
+            </summary>
+        </member>
+        <member name="T:PremiumService.Middleware.ExceptionMiddleware">
+            <summary>
+            Global exception handling middleware.
+            </summary>
+        </member>
+        <member name="T:PremiumService.Migrations.InitialDatabase">
+            <inheritdoc />
+        </member>
+        <member name="M:PremiumService.Migrations.InitialDatabase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PremiumService.Migrations.InitialDatabase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PremiumService.Migrations.InitialDatabase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:PremiumService.Models.FreeTrial">
+            <summary>
+            Represents the one-time free trial provided to a user.
+            Users can view up to 10 products before purchasing a subscription.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.FreeTrial.FreeTrialId">
+            <summary>
+            Primary key of the free trial.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.FreeTrial.UserId">
+            <summary>
+            ID of the user from the Auth Service.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.FreeTrial.ProductsViewed">
+            <summary>
+            Number of products viewed during the free trial.
+            Maximum allowed is 10.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.FreeTrial.IsConsumed">
+            <summary>
+            Indicates whether the free trial has been fully consumed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.FreeTrial.CreatedDate">
+            <summary>
+            Date and time when the free trial was created (UTC).
+            </summary>
+        </member>
+        <member name="T:PremiumService.Models.Invoice">
+            <summary>
+            Represents an invoice generated after a successful payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Invoice.InvoiceId">
+            <summary>
+            Primary key of the invoice.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Invoice.PaymentId">
+            <summary>
+            Payment associated with this invoice.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Invoice.Payment">
+            <summary>
+            Navigation property for the payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Invoice.InvoiceNumber">
+            <summary>
+            Navigation property for the payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Invoice.InvoiceDate">
+            <summary>
+            Date and time when the invoice was generated (UTC).
+            </summary>
+        </member>
+        <member name="T:PremiumService.Models.Payment">
+            <summary>
+            Represents a payment made by a user for purchasing a subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.PaymentId">
+            <summary>
+            Primary key of the payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.SubscriptionId">
+            <summary>
+            Subscription associated with this payment.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.Subscription">
+            <summary>
+            Navigation property for the subscription.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.Amount">
+            <summary>
+            Amount paid by the user.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.PaymentMethod">
+            <summary>
+            Payment method used.
+            Example: UPI, Credit Card, Debit Card, Net Banking.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.TransactionId">
+            <summary>
+            Unique transaction identifier returned by the payment gateway.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.PaymentStatus">
+            <summary>
+            Current payment status.
+            Example: Pending, Success, Failed.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.PaymentDate">
+            <summary>
+            Date and time when the payment was made (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Payment.Invoice">
+            <summary>
+            Navigation property for the generated invoice.
+            </summary>
+        </member>
+        <member name="T:PremiumService.Models.Subscription">
+            <summary>
+            Represents a user's purchased subscription plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.SubscriptionId">
+            <summary>
+            Primary key of the subscription.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.UserId">
+            <summary>
+            ID of the user from the Auth Service.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.PlanId">
+            <summary>
+            ID of the subscribed plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.Plan">
+            <summary>
+            Navigation property for the subscribed plan.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.StartDate">
+            <summary>
+            Subscription start date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.EndDate">
+            <summary>
+            Subscription expiry date (UTC).
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.ProductsViewed">
+            <summary>
+            Number of products viewed by the user.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.RemainingProducts">
+            <summary>
+            Remaining product views available in the current subscription.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.Status">
+            <summary>
+            Current subscription status.
+            Example: Active, Cancelled.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.AutoRenew">
+            <summary>
+            Indicates whether the subscription should renew automatically.
+            </summary>
+        </member>
+        <member name="P:PremiumService.Models.Subscription.Payment">
+            <summary>
+            Navigation property for the payment associated with this subscription.
+            </summary>
+        </member>
+    </members>
+</doc>
